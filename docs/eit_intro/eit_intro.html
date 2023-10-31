@@ -87,11 +87,11 @@ div.csl-indent {
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="EIT Community Website - Introduction to Electrical Impedance Tomography">
 <meta property="og:description" content="Quick overview of the EIT technology">
-<meta property="og:image" content="https://www.eit.org.uk/eit_intro/_graphics/electrodes_on_chest.jpg">
+<meta property="og:image" content="_graphics/electrodes_on_chest.jpg">
 <meta property="og:site-name" content="EIT Community Website">
 <meta name="twitter:title" content="EIT Community Website - Introduction to Electrical Impedance Tomography">
 <meta name="twitter:description" content="Quick overview of the EIT technology">
-<meta name="twitter:image" content="https://www.eit.org.uk/eit_intro/_graphics/electrodes_on_chest.jpg">
+<meta name="twitter:image" content="_graphics/electrodes_on_chest.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -532,7 +532,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/www\.eit\.org\.uk");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
