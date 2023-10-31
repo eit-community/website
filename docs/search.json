@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "EIT Community website",
     "section": "",
-    "text": "This web site is aimed at encouraging communication among members of the Electrical Impedance Tomography (EIT) community.\n\n\n\n\n\n                                                \n\n\n \nWe are community of\n\n500+ researchers\n13+ Research labs\n\nin 8 countries on 3 continents\nsomething like here: https://www.hrsonline.org/\nadd section news: with the blog like info, i.e. colour group/dicom group\n\n\n\n\n\n\nThe site includes\n\n\n\n\na mailing list which we hope will be actively used for discussion,\nannouncements of EIT Community meetings i.e., connferences,\na list of EIT research groups,\na list of Research & Commercial EIT hardware & Software Tools\na list of publications i.e, special issues & conference proceedings\na list of vacancies of interest to the EIT community\n…"
+    "text": "This web site is aimed at encouraging communication among members of the Electrical Impedance Tomography (EIT) community.\n\n\n\n\n\n                                                \n\n\n\nWe are community of\n\n500+ researchers\n13+ Research labs\n\nin 8 countries on 3 continents\n\n\n\n\n\n\n\nThe site includes\n\n\n\n\na mailing list which we hope will be actively used for discussion,\nannouncements of EIT Community meetings i.e., connferences,\na list of EIT research groups,\na list of Research & Commercial EIT hardware & Software Tools\na list of publications i.e, special issues & conference proceedings\na list of vacancies of interest to the EIT community\n…"
   },
   {
     "objectID": "research/groups.html#asia",
@@ -250,5 +250,26 @@
     "title": "Research EIT systems",
     "section": "..",
     "text": "..\n…"
+  },
+  {
+    "objectID": "community/eit_community.html",
+    "href": "community/eit_community.html",
+    "title": "EIT Community Website",
+    "section": "",
+    "text": "“The objectives of this workshop (community) were to bring together workers in this relatively new area of research, with a view to sharing technical expertise and experience in order to enhance the quality and pace of the development”\n\n\n\nB. H. Brown, et al., 1986 (Brown, Barber, and Tarrasenko 1987)"
+  },
+  {
+    "objectID": "community/eit_community.html#history-of-the-eit-community",
+    "href": "community/eit_community.html#history-of-the-eit-community",
+    "title": "EIT Community Website",
+    "section": "History of the EIT Community",
+    "text": "History of the EIT Community\n…\n\n\n\n\n\n\nTODO\n\n\n\n…..Placeholder for nice text about history of the EIT community…."
+  },
+  {
+    "objectID": "community/eit_community.html#eit-steering-committee",
+    "href": "community/eit_community.html#eit-steering-committee",
+    "title": "EIT Community Website",
+    "section": "EIT Steering Committee",
+    "text": "EIT Steering Committee\n…\n\nProf. Rosalind Sadleir (University of Arizona)\nProf. Richard Bayford (Middlesex University London)\nProf. Bill Lionheart(University of Manchester)\nProf. Andy Adler (Carleton University)\nProf. David Holder (University College London)\nProf. Inéz Frerichs (Christian Albrechts University)"
   }
 ]
